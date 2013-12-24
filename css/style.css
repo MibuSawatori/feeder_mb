@@ -1,0 +1,33 @@
+/*Style for Feeder MB plugins*/
+
+ul#mb_list{
+	display: block;
+	list-style-image: none;
+	list-style-type: none;
+	width: 100%;
+	float: left;
+}
+ul#mb_list li{
+	display: block;
+	list-style-image: none;
+	list-style-type: none;
+	margin-bottom: 20px;
+}
+ul#mb_list li h1{
+	display: block;
+	float: left;
+	width: 100%;
+	line-height: normal;
+	margin: 0;
+	padding: 0;
+	font-size: 18px; 
+	margin-bottom: 10px;
+}
+ul#mb_list li p{
+	margin: 0;
+	padding: 0;
+	display: block;
+	width: 100%;
+	font-size: 12px;
+	margin-bottom: 5px;
+}
