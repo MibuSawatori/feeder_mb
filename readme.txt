@@ -14,9 +14,9 @@ A plugin that will enable mortgagebrokerapp.com.au client to feed rss live from 
 A plugin that will enable mortgagebrokerapp.com.au client to feed rss live from mortgagebrokerapp.com.au.
 
 == Installation ==
-1. Upload \"test-plugin.php\" to the \"/wp-content/plugins/\" directory.
+1. Upload \"feeder-mb\" to the \"/wp-content/plugins/\" directory.
 2. Activate the plugin through the \"Plugins\" menu in WordPress.
-3. Place \"do_action( \'plugin_name_hook\' );\" in your templates.
+3. Place \"[list_feeds]" in your page or post or widgets.
 
 == Frequently Asked Questions ==
 = A question that someone might have =
